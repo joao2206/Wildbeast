@@ -36,7 +36,6 @@ img {
 }
 
 /*HEADER*/
-
 .header {
   grid-area: header;
   background: linear-gradient(135deg, #8844ee, #b07dfb);
@@ -74,7 +73,6 @@ img {
 }
 
 /*SIDENAV*/
-
 .sidenav {
   grid-area: sidenav;
   background: #fafbfc;
